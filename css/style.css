@@ -1,0 +1,22 @@
+.reply .bbpps-message p{
+	margin:0 !important;
+}
+
+.reply .bbpps-message{
+	display: block !important;
+	padding:10px 20px !important;
+	text-align: left !important;
+	color:#717171 !important;
+	margin-bottom:20px;
+}
+.reply .bbpps-message.warning{
+	background-color: #fbf6e4 !important;
+	border:1px solid #eed77d !important;
+	color:#c7a900 !important;
+}
+
+.reply .bbpps-message.notice{
+	background-color: #ffffff !important;
+	border:1px solid #cccccc !important;
+	color:#999999 !important;
+}
